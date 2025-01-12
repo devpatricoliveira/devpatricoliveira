@@ -1,5 +1,4 @@
       # PATRIC OLIVEIRA 2025
-
 name: generate animation
 
 on:
@@ -7,16 +6,12 @@ on:
   schedule:
     - cron: "0 */24 * * *" 
   
- 
   workflow_dispatch:
   
- 
   push:
     branches:
     - master
     
-  
-
 jobs:
   generate:
     permissions: 
@@ -32,10 +27,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=dracula&snake_color=ff0000&snake_opacity=0.4
           
-          
-
+ 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
