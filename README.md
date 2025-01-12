@@ -3,7 +3,7 @@
 Bem-vindo ao meu GitHub! 🚀 Sou o fundador e CEO da **Android Lab**, uma empresa especializada em **desenvolvimento de websites**, **aplicativos móveis**, **soluções de software**, além de oferecer serviços de **manutenção de PCs e dispositivos móveis**. Estou sempre em busca de novos desafios e soluções inovadoras no mundo da tecnologia.
 
 ---
-
+ ![snake gif](https://github.com/devpatricoliveira/devpatricoliveira/blob/output/github-contribution-grid-snake.gif)
 ### 🔭 No momento estou trabalhando em:
 - Desenvolvimento de websites personalizados, aplicativos móveis e soluções de software.
 - Melhorando a experiência do usuário e otimizando o desempenho das aplicações.
