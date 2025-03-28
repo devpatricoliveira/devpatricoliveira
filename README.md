@@ -3,31 +3,40 @@
 
 ---
 ![snake gif](https://github.com/devpatricoliveira/devpatricoliveira/blob/output/github-contribution-grid-snake.gif)
-### 🔭 No momento estou trabalhando em:
-- Desenvolvimento de websites personalizados, aplicativos móveis e soluções de software.
-- Melhorando a experiência do usuário e otimizando o desempenho das aplicações.
+🔭 No momento estou trabalhando em:
+Desenvolvimento de websites personalizados, aplicativos móveis e soluções de software que atendem às necessidades específicas dos meus clientes.
 
-### 🌱 Atualmente estou aprendendo:
-- Explorando novos frameworks e ferramentas para **desenvolvimento de aplicativos multiplataforma**.
-- Aprimorando meus conhecimentos em **IA/ML** e **tecnologias em nuvem**.
+Melhorando a experiência do usuário e otimizando o desempenho das aplicações para garantir a melhor performance possível.
 
-### 👯 Estou procurando colaborar em:
-- Projetos open-source relacionados a **desenvolvimento móvel** (Android, iOS) e **tecnologias web**.
-- Ajudar empresas a criar soluções de software inovadoras.
+🌱 Atualmente estou aprendendo:
+Explorando novos frameworks e ferramentas para o desenvolvimento de aplicativos multiplataforma.
 
-### 🤔 Estou procurando ajuda com:
-- Escalar aplicativos móveis utilizando **serviços em nuvem**.
-- Otimizar aplicações web para melhorar o desempenho e segurança.
+Aprimorando meus conhecimentos em IA/ML e tecnologias em nuvem para aplicar inovações nos meus projetos.
 
-### 💬 Pergunte-me sobre:
-- **Desenvolvimento web** (HTML, CSS, JavaScript, React, Node.js)
-- **Desenvolvimento de aplicativos móveis** (Android, Flutter, React Native)
-- **Soluções de software** (C++, Python, Java)
-- **Reparos e manutenção** de PCs e dispositivos móveis.
+👯 Estou procurando colaborar em:
+Projetos open-source relacionados a desenvolvimento móvel (Android, iOS) e tecnologias web.
 
-### 📫 Como me encontrar:
-- 📧 E-mail: [contato@androidlab.com.br](mailto:contato@androidlab.com.br)
-- 🌐 Site: [www.androidlab.com.br](https://www.androidlab.com.br)
+Ajudar empresas a criar soluções de software inovadoras e escaláveis.
+
+🤔 Estou procurando ajuda com:
+Escalar aplicativos móveis utilizando serviços em nuvem.
+
+Otimizar aplicações web para melhorar desempenho, segurança e escalabilidade.
+
+💬 Pergunte-me sobre:
+Desenvolvimento Web (HTML, CSS, JavaScript, React, Node.js)
+
+Desenvolvimento de Aplicativos Móveis (Android, Flutter, React Native)
+
+Soluções de Software (C++, Python, Java)
+
+Reparos e manutenção de PCs e dispositivos móveis.
+
+📫 Como me encontrar:
+📧 E-mail: contato@androidlab.com.br
+
+🌐 Site: www.androidlab.com.br
+
 
 ### ⚡ Slogan da minha vida:
 "Reparar o impossível é o que me torna a sua melhor opção."
