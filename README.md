@@ -32,8 +32,10 @@ Soluções de Software (C++, Python, Java)
 
 Reparos e manutenção de PCs e dispositivos móveis.
 
+
 📫 Como me encontrar:
 📧 E-mail: contato@androidlab.com.br
+
 
 🌐 Site: www.androidlab.com.br
 
