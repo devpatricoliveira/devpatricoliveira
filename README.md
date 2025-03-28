@@ -57,7 +57,7 @@ Adoro experimentar **novas tecnologias** e estou sempre em busca de formas de me
 
 Aqui estão as minhas estatísticas atuais no GitHub! Estou apenas começando, mas estou empolgado com o que vem por aí!
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=androidlabbr&show_icons=true&hide_title=true&hide_border=true&theme=radical)
+![Estatísticas do GitHub](https://patricoliveira.com.br/wg/estatisticas2.svg)
 
 ---
 
@@ -65,7 +65,7 @@ Aqui estão as minhas estatísticas atuais no GitHub! Estou apenas começando, m
 
 Eu estou apenas começando a compartilhar meus projetos, então não se assuste se as linguagens ainda não aparecerem em grande quantidade. Acompanhe o crescimento!
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=androidlabbr&layout=compact&langs_count=6&hide_title=true&theme=radical)
+![Top Linguagens](https://skillicons.dev/icons?i=appwrite,aws,babel,bootstrap,cloudflare,css,d3,docker,figma,firebase,gatsby,git,github,graphql,html,ipfs,js,jquery,kubernetes,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,replit,sass,supabase,tailwind,threejs,vercel,vite,vscode,yarn)
 
 ---
 
@@ -73,7 +73,7 @@ Eu estou apenas começando a compartilhar meus projetos, então não se assuste 
 
 Aqui está o meu progresso! Estou apenas começando a contribuir, mas em breve espero ver mais cor no gráfico. 🚀
 
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=androidlabbr&hide_border=true&theme=radical)
+![Contribuições](https://patricoliveira.com.br/wg/contribuicao.svg)
 
 ---
 
