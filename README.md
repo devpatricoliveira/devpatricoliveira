@@ -1,9 +1,8 @@
-## Olá, eu sou o **Patric Oliveira** 👋, CEO da [Android Lab](https://www.androidlab.com.br)
-
-Bem-vindo ao meu GitHub! 🚀 Sou o fundador e CEO da **Android Lab**, uma empresa especializada em **desenvolvimento de websites**, **aplicativos móveis**, **soluções de software**, além de oferecer serviços de **manutenção de PCs e dispositivos móveis**. Estou sempre em busca de novos desafios e soluções inovadoras no mundo da tecnologia.
+## Olá, eu sou o Patric Oliveira 👋
+👨‍💻 Sou desenvolvedor de sites, aplicativos móveis e soluções de software, com mais de 15 anos de experiência no campo da tecnologia. Ao longo da minha carreira, tive assistências técnicas de computadores e celulares, onde adquiri uma vasta experiência em gerenciamento e inovação no setor.  Mantenho minha marca Android Lab, focada em oferecer soluções tecnológicas inovadoras que me desafiam a crescer e a buscar excelência constantemente. Atualmente, estou cursando Engenharia de Software e possuo um Tecnólogo em Perícia Computacional, além de ser Técnico em Informática e Reparação de Celulares. Minha trajetória é marcada pela busca incessante por aprendizado e pela aplicação de novas tecnologias para resolver problemas reais do mercado.
 
 ---
- ![snake gif](https://github.com/devpatricoliveira/devpatricoliveira/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/devpatricoliveira/devpatricoliveira/blob/output/github-contribution-grid-snake.gif)
 ### 🔭 No momento estou trabalhando em:
 - Desenvolvimento de websites personalizados, aplicativos móveis e soluções de software.
 - Melhorando a experiência do usuário e otimizando o desempenho das aplicações.
@@ -30,10 +29,10 @@ Bem-vindo ao meu GitHub! 🚀 Sou o fundador e CEO da **Android Lab**, uma empre
 - 📧 E-mail: [contato@androidlab.com.br](mailto:contato@androidlab.com.br)
 - 🌐 Site: [www.androidlab.com.br](https://www.androidlab.com.br)
 
-### 😄 Pronomes: Ele/Dele
+### ⚡ Slogan da minha vida:
+"Reparar o impossível é o que me torna a sua melhor opção."
+Estou sempre em busca de desafios tecnológicos que exigem soluções criativas e inovadoras! 🚀
 
-### ⚡ Curiosidade:
-Adoro experimentar **novas tecnologias** e estou sempre em busca de formas de melhorar tanto minhas habilidades de programação quanto meu conhecimento da indústria de tecnologia! 🚀
 
 ---
 
