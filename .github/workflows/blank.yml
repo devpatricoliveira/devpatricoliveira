@@ -1,33 +1,50 @@
 name: generate animation
 
 on:
+  
   schedule:
-    - cron: "0 */24 * * *"  # Gera a animação a cada 24 horas
-  workflow_dispatch:  # Permite a execução manual do workflow
+    - cron: "0 */24 * * *"   # Executa a cada 24 horas
+  
+  workflow_dispatch:
+  
   push:
     branches:
-      - master  # Aciona o workflow quando houver um push na branch master
-
+    - master
+    
 jobs:
   generate:
-    permissions:
-      contents: write  # Permissão para escrever no repositório
-    runs-on: ubuntu-latest
-    timeout-minutes: 5  # Limita a execução a 5 minutos
-
+    permissions: 
+      contents: write  # Permissões para escrever no repositório
+    runs-on: ubuntu-latest  # Usando o Ubuntu como ambiente
+    timeout-minutes: 5
+    
     steps:
-      # Passo para gerar a animação GIF com base na contribuição do GitHub
-      - name: generate github-contribution-grid-snake.gif
+ 
+      - name: Checkout code
+        uses: actions/checkout@v2  # Faz o checkout do código do repositório
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Versão do Node.js que você deseja usar
+
+      - name: Install dependencies
+        run: |
+          npm install  # Instala as dependências do package.json
+          npm install canvas  # Instala o módulo canvas que está faltando
+
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.gif  # Alterado para gerar o GIF
-
-      # Passo para enviar o arquivo gerado para a branch de saída (output)
-      - name: push github-contribution-grid-snake.gif to the output branch
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=dracula&snake_color=ff0000&snake_opacity=0.4
+          
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output  # Nome da branch para onde o arquivo será enviado
-          build_dir: dist  # Diretório contendo os arquivos a serem enviados
+          target_branch: output
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token do GitHub para autenticação
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_PAT }}  # Usando o token armazenado nos segredos
