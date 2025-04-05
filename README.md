@@ -2,7 +2,7 @@
 👨‍💻 Sou desenvolvedor de sites, aplicativos móveis e soluções de software, com mais de 15 anos de experiência no campo da tecnologia. Ao longo da minha carreira, tive assistências técnicas de computadores e celulares, onde adquiri uma vasta experiência em gerenciamento e inovação no setor.  Mantenho minha marca Android Lab, focada em oferecer soluções tecnológicas inovadoras que me desafiam a crescer e a buscar excelência constantemente. Atualmente, estou cursando Engenharia de Software e possuo um Tecnólogo em Perícia Computacional, além de ser Técnico em Informática e Reparação de Celulares. Minha trajetória é marcada pela busca incessante por aprendizado e pela aplicação de novas tecnologias para resolver problemas reais do mercado.
 
 ---
-![snake gif](https://devpatricoliveira.github.io/devpatricoliveira/github-contribution-grid-snake.gif)
+![snake gif]([https://devpatricoliveira.github.io/devpatricoliveira/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg))
 
 
 🔭 No momento estou trabalhando em:
