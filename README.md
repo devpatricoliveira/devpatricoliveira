@@ -4,6 +4,7 @@
 ---
 ![snake gif](https://devpatricoliveira.github.io/devpatricoliveira/github-contribution-grid-snake.gif)
 
+
 🔭 No momento estou trabalhando em:
 Desenvolvimento de websites personalizados, aplicativos móveis e soluções de software que atendem às necessidades específicas dos meus clientes.
 
