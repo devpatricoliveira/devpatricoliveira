@@ -39,6 +39,7 @@ Reparos e manutenção de PCs e dispositivos móveis.
 📧 E-mail: contato@androidlab.com.br
 
 
+🌐 Site: www.patricoliveira.com.br
 🌐 Site: www.androidlab.com.br
 
 
