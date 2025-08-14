@@ -69,7 +69,7 @@ Estou sempre em busca de desafios tecnológicos que exigem soluções criativas 
 
 Aqui estão as minhas estatísticas atuais no GitHub! Estou apenas começando, mas estou empolgado com o que vem por aí!
 
-![Estatísticas do GitHub]([https://patricoliveira.com.br/wg/estatisticas2.svg])
+![Estatísticas do GitHub](https://patricoliveira.com.br/wg/estatisticas2.svg)
 
 ---
 
