@@ -69,7 +69,7 @@ Estou sempre em busca de desafios tecnológicos que exigem soluções criativas 
 
 Aqui estão as minhas estatísticas atuais no GitHub! Estou apenas começando, mas estou empolgado com o que vem por aí!
 
-![Estatísticas do GitHub]([https://patricoliveira.com.br/wg/estatisticas2.svg)
+![Estatísticas do GitHub](https://patricoliveira.com.br/svg/informa%C3%A7%C3%B5es-git.svg)
 
 ---
 
@@ -77,7 +77,7 @@ Aqui estão as minhas estatísticas atuais no GitHub! Estou apenas começando, m
 
 Eu estou apenas começando a compartilhar meus projetos, então não se assuste se as linguagens ainda não aparecerem em grande quantidade. Acompanhe o crescimento!
 
-![Top Linguagens](https://skillicons.dev/icons?i=appwrite,aws,babel,bootstrap,cloudflare,css,d3,docker,figma,firebase,gatsby,git,github,graphql,html,ipfs,js,jquery,kubernetes,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,replit,sass,supabase,tailwind,threejs,vercel,vite,vscode,yarn)
+![Top Linguagens](https://skillicons.dev/icons?i=py,js,java,kotlin,dart,cs,php,ruby,perl,html,css,powershell,react,nextjs,nestjs,angular,flutter,laravel,bootstrap,tailwind,materialui,htmx,vscode,androidstudio,idea,phpstorm,visualstudio,sublime,bitbucket,git,gitlab,yarn,npm,pnpm,gradle,docker,heroku,vercel,aws,azure,firebase,cloudflare,openstack,supabase,mongodb,mysql,postgres,sqlite,redis,windows,linux,ubuntu,debian,arch,kali,raspberrypi,apple,ps,ai,ae,au,autocad,bots,rocket,stackoverflow,pr,nginx&theme=light)
 
 ---
 
@@ -85,12 +85,13 @@ Eu estou apenas começando a compartilhar meus projetos, então não se assuste 
 
 Aqui está o meu progresso! Estou apenas começando a contribuir, mas em breve espero ver mais cor no gráfico. 🚀
 
-![Contribuições](https://patricoliveira.com.br/svg/informa%C3%A7%C3%B5es-git.svg)
+![Contribuições](https://patricoliveira.com.br/svg/contribuicao.svg)
 
 ---
 
 ### 🌐 Redes sociais e contatos:
 
+[![Patric Oliveira](https://img.shields.io/badge/Patric_Oliveira-1DA1F2?style=flat&logo=dev.to&logoColor=fff)](https://patricoliveira.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/patricoliveira/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://twitter.com/androidlabbr)
 
