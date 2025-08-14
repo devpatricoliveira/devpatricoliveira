@@ -69,7 +69,7 @@ Estou sempre em busca de desafios tecnológicos que exigem soluções criativas 
 
 Aqui estão as minhas estatísticas atuais no GitHub! Estou apenas começando, mas estou empolgado com o que vem por aí!
 
-![Estatísticas do GitHub](https://patricoliveira.com.br/wg/estatisticas2.svg)
+![Estatísticas do GitHub]([https://patricoliveira.com.br/wg/estatisticas2.svg])
 
 ---
 
@@ -85,7 +85,7 @@ Eu estou apenas começando a compartilhar meus projetos, então não se assuste 
 
 Aqui está o meu progresso! Estou apenas começando a contribuir, mas em breve espero ver mais cor no gráfico. 🚀
 
-![Contribuições](https://patricoliveira.com.br/wg/contribuicao.svg)
+![Contribuições](https://patricoliveira.com.br/svg/informa%C3%A7%C3%B5es-git.svg)
 
 ---
 
